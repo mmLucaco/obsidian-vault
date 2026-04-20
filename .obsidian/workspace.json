@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📁 02 - Lua (lenguaje)/🧠 Luau (Hub).md",
-                "mode": "preview",
+                "file": "📁 02 - Lua (lenguaje)/📄 Enums.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🧠 Luau (Hub)"
+              "title": "📄 Enums"
             }
           },
           {
@@ -104,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "📁 02 - Lua (lenguaje)/📄 Enums.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes"
+              "title": "Enlaces entrantes de 📄 Enums"
             }
           },
           {
@@ -203,10 +204,10 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "90b95c61f8e19e6d",
+  "active": "dd23f692d68d40b7",
   "lastOpenFiles": [
-    "📁 02 - Lua (lenguaje)/🧠 Luau (Hub).md",
     "Sin título.base",
+    "📁 02 - Lua (lenguaje)/🧠 Luau (Hub).md",
     "📁 02 - Lua (lenguaje)/Relacionado/Loops.md",
     "📁 02 - Lua (lenguaje)/📄 Control de flujo.md",
     "📁 02 - Lua (lenguaje)/📄 Tipos de datos.md",
