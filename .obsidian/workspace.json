@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "747982e83aee24b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b5be6efddd60873",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd23f692d68d40b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📁 02 - Lua (lenguaje)/🧠 Luau (Hub).md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🧠 Luau (Hub)"
+            }
+          },
+          {
+            "id": "30c0a0da94e67c6e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "99a17da291279613",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1123151dfc749ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90b95c61f8e19e6d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "a78b74f0648319b6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "afe83ec4894a4923",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298.5
+  },
+  "right": {
+    "id": "f94139e49a3ca858",
+    "type": "split",
+    "children": [
+      {
+        "id": "52b30fc5d14dee2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22dc89f562097a76",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "38119d184f1805d8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bienvenido.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Bienvenido"
+            }
+          },
+          {
+            "id": "40a06839df2b0837",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "a12a048db0582d21",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "57bfcff8997b5f0e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bienvenido.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Bienvenido"
+            }
+          },
+          {
+            "id": "53fa67ab2ba8b1a4",
+            "type": "leaf",
+            "state": {
+              "type": "related-notes-by-tag-view",
+              "state": {},
+              "icon": "tag",
+              "title": "Related notes by tag"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "90b95c61f8e19e6d",
+  "lastOpenFiles": [
+    "📁 02 - Lua (lenguaje)/🧠 Luau (Hub).md",
+    "Sin título.base",
+    "📁 02 - Lua (lenguaje)/Relacionado/Loops.md",
+    "📁 02 - Lua (lenguaje)/📄 Control de flujo.md",
+    "📁 02 - Lua (lenguaje)/📄 Tipos de datos.md",
+    "📁 02 - Lua (lenguaje)/📄 Variables.md",
+    "📁 02 - Lua (lenguaje)/📄 Estructuras de datos.md",
+    "📁 02 - Lua (lenguaje)/📄 Type coercion.md",
+    "📁 02 - Lua (lenguaje)/📄 Type checking.md",
+    "📁 02 - Lua (lenguaje)/📄 Operadores.md",
+    "📁 02 - Lua (lenguaje)/📄 Funciones.md",
+    "📁 02 - Lua (lenguaje)/Relacionado/Table.md",
+    "📁 02 - Lua (lenguaje)/Relacionado/Stacks.md",
+    "📁 02 - Lua (lenguaje)/📄 Enums.md",
+    "📁 02 - Lua (lenguaje)/Relacionado/string.md",
+    "📁 02 - Lua (lenguaje)/Relacionado/number.md",
+    "📁 02 - Lua (lenguaje)/Relacionado/boolean.md",
+    "📁 02 - Lua (lenguaje)/Relacionado/nil.md",
+    "📁 02 - Lua (lenguaje)/📄 Metatables.md",
+    "Metatables.md",
+    "📁 02 - Lua (lenguaje)/Relacionado/If.md",
+    "📁 06 - UI (GUI)/GUI FUNDAMENTALS/GUI FUNDAMENTALS.md",
+    "Leaderstats.md",
+    "Enums.md",
+    "📁 02 - Lua (lenguaje)/Relacionado/Queues.md",
+    "📁 02 - Lua (lenguaje)/Relacionado",
+    "Tipos de datos.md",
+    "📁 04 - Arquitectura (Cliente-Servidor)",
+    "📁 08 - Debug<<>>Errores",
+    "📁 09 - Snippets (Código reutilizable)",
+    "📁 06 - UI (GUI)/GUI FUNDAMENTALS/Carpeta De GUI FUNDAMENTALS",
+    "📁 06 - UI (GUI)/GUI FUNDAMENTALS",
+    "📁 05 - UI (GUI)/GUI FUNDAMENTALS/Pruebas",
+    "Pasted image 20260418175159.png",
+    "📁 03 - Roblox Engine/Sin título.canvas",
+    "📁 99 - Recursos",
+    "📁 07 - Problemas y errores",
+    "Sin título.canvas"
+  ]
+}
